@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
   </div>
 
   <div align="center">
-    <a href="https://github.com/miyuu-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuu&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuu&layout=compact&langs_count=7&theme=panda"/>
+    <a href="https://github.com/miyuudev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=panda"/>
   </div>
       
   <div>
