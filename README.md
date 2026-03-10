@@ -28,9 +28,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 
   <div align="center">
-    <a href="https://github.com/miyuudev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=panda"/>
+   
   </div>
       
   <div>
@@ -66,7 +64,6 @@ You can click the Preview link to take a look at your changes.
   <div>
     <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
     <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
-    <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="300" />
   </div>
 </div>
 
