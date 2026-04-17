@@ -11,27 +11,50 @@ miyuu-dev/miyuu-dev is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <div>
-  
-  <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=Hello,+World!!!&section=header&reversal=false"/>
-    <img src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="100%"/>
-    <p align="right"><a href="https://giphy.com/gifs/perfect-loops-9LZTcawH3mc8V2oUqk">via GIPHY</a></p>  
+
+  <div>
+    <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=About+Me&section=header&reversal=false"/></div>
   </div>
+  <br>
   
-  ##
-  
-  <br/>
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuu!!!;A+Software+Engineer+Student!;&color=ff3399" alt="Typing SVG" />
+    <p>:white_flower:Welcome to my space.</p>
+    <p>This is not just a portfolio.</p>
+    <p>This is my Build Log - a place where I document my growth, my challenges, and my progress as a developer.</p>
+    <p>💻 I am learning software development step by step</p>
+    <p>🌱 Currently learning Java, Spring Boot, Angular, HTML, CSS, JS</p>
+    <p>🎯 My goal is to become a professional developer and build real-world solutions</p>
+    <p>🌏 Living and growing in Japan</p>
+    <br>
+    <p>💞️ My hobbies 💞️: </b></p>
+    <p>:art: Arts, Design and Game</p>   
+    <p>:love_letter: Languages (currently studying for JLPTN2)</p>
+    <p>:fire: Math and trying electrical</p>
+    <p>:leaves: Enjoy the simple things in life</p>    
+  </div>
+  
+<!---
+  <div>
+    
+## :feet: 2026
+    
   </div>
 
-  <div align="center">
-   
-  </div>
-      
+  
   <div>
+--->
+    
+## :thought_balloon: Philosophy
+
+> Small steps every day lead to big results.
+
+I believe in consistency over perfection.
+I am not trying to be perfect — I am trying to improve.
+  </div>
+    
+  <div>   
     
   ## :hammer_and_wrench: Tech Stacks
   
