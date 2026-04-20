@@ -45,6 +45,15 @@ You can click the Preview link to take a look at your changes.
   
   <div>
 --->
+
+<div align="center">
+  <a href="https://github.com/miyuudev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=jolly"/>
+</div>
+<div style="display: inline_block" ><br>
+</div>
+    
     
 ## :thought_balloon: Philosophy
 
@@ -52,6 +61,30 @@ You can click the Preview link to take a look at your changes.
 
 I believe in consistency over perfection.
 I am not trying to be perfect — I am trying to improve.
+  </div>
+
+  <div align="center">
+      <h3>✨ Favorite stacks ✨</h3>
+  </div>
+  
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <!-- GIF -->
+    <div style="display: inline-block;">
+      <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
+        <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
+      </a>
+      <p style="margin: 0; font-size: 20px;">Keep calm and code on</p>
+    </div>  
+    <!-- Ícones -->
+    <div style="display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+    </div>   
   </div>
     
   <div>   
