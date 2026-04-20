@@ -13,6 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 
+  <div align="center"; margin: 10px;">
+    <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
+      <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+    </a>
+  </div>
+
   <div>
     <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=About+Me&section=header&reversal=false"/></div>
   </div>
