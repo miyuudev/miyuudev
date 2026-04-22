@@ -75,11 +75,7 @@ I am not trying to be perfect — I am trying to improve.
   </div>
 
   <div align="center">
-      <h3>
-        <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
-        Favorite stacks.....................................
-        <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
-      </h3>
+      <h3>✨sFavorite stacks✨</h3>
   </div>
   
   <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -88,7 +84,7 @@ I am not trying to be perfect — I am trying to improve.
       <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
         <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
       </a>
-      <p style="margin: 0; font-size: 20px;">Keep calm and code on</p>
+      <p style="margin: 0; font-size: 20px;">Keep calm and code on...................<img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/></p>
     </div>  
     <!-- Ícones -->
     <div style="display: inline-block;">
