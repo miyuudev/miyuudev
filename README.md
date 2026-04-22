@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
     <p>:leaves: Enjoy the simple things in life</p>    
   </div>
   
-<!---
+<!--
   <div>
     
 ## :feet: 2026
@@ -50,14 +50,16 @@ You can click the Preview link to take a look at your changes.
 
   
   <div>
---->
+-->
 <br>
 <div align="center">
+  <h3 align="center">
+  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+  Dashboard...................................................
+  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+  </h3>
   <a href="https://github.com/miyuudev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>  
-
-  <p></p>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block" ><br>
@@ -73,7 +75,11 @@ I am not trying to be perfect — I am trying to improve.
   </div>
 
   <div align="center">
-      <h3>✨ Favorite stacks ✨</h3>
+      <h3>
+        <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
+        Favorite stacks.....................................
+        <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
+      </h3>
   </div>
   
   <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -96,7 +102,7 @@ I am not trying to be perfect — I am trying to improve.
     </div>   
   </div>
     
-  <div>   
+  <div><br><br>   
     
   ## :hammer_and_wrench: Tech Stacks
   
@@ -128,8 +134,14 @@ I am not trying to be perfect — I am trying to improve.
 
   <div>
     <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
-    <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
   </div>
+  <div  align="center">
+    <img src="https://media.giphy.com/media/yjLLJou3azdeMnJxFW/giphy.gif" width="480"/>
+    <img src="https://media.giphy.com/media/Xb8DyZrvM3DgrzGjE6/giphy.gif" width="240"/>
+    <p><a href="https://giphy.com/stickers/coming-soon-khangwtm-kingkhang-Xb8DyZrvM3DgrzGjE6">via GIPHY</a></p>
+  </div>
+  <br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=DaniMiyuki&color=green" alt="Profile Views" /></p>
 </div>
 
 
