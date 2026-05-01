@@ -62,8 +62,6 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=jolly"/>
 </div>
-<div style="display: inline_block" ><br>
-</div>
     
     
 ## :thought_balloon: Philosophy
@@ -72,6 +70,7 @@ You can click the Preview link to take a look at your changes.
 
 I believe in consistency over perfection.
 I am not trying to be perfect — I am trying to improve.
+
   </div>
 
   <div align="center">
