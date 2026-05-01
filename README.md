@@ -58,9 +58,12 @@ You can click the Preview link to take a look at your changes.
   Dashboard...................................................
   <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
   </h3>
-  <a href="https://github.com/miyuudev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=jolly"/>
+  <a href="https://github.com/miyuudev/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> 
+  </a>
+  <a href="https://github.com/miyuudev/github-readme-stats"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuudev&layout=compact&langs_count=7&theme=jolly"/>
+  </a>
 </div>
     
     
