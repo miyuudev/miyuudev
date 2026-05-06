@@ -54,9 +54,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align="center">
   <h3 align="center">
-  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
   Dashboard...................................................
-  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
   </h3>
   <a href="https://github.com/miyuudev/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuudev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> 
