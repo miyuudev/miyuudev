@@ -134,8 +134,6 @@ I am not trying to be perfect — I am trying to improve.
     <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
   </div>
   <div  align="center">
-    <img width="120" height="248" alt="image" src="https://github.com/user-attachments/assets/ca939769-f939-4db3-9c81-219426d931b8" />
-    <p> First mobile game for 2 players and simple sound (click button and victory game)!!! </p>
 <br>
     <img src="https://media.giphy.com/media/yjLLJou3azdeMnJxFW/giphy.gif" width="55"/>
 <br>
